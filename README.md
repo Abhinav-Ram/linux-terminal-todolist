@@ -2,7 +2,7 @@
 This is a simple linux-terminal-based to-do list program that maintains a file called tasks.txt. You can use it to add, update, and delete tasks from your list, as well as display all the tasks currently in your list.
 
 ## Usage
-To run the program, navigate to the directory containing run.sh in your terminal, and type:
+To run the program, download and navigate to the directory containing these files in your terminal, and type:
 
 ```
 ./t [command] [arguments]
