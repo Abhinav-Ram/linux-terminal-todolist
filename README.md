@@ -28,19 +28,27 @@ Here are some examples of how you can use the program:
 
 To add a new task to your list:
 
-`./t add 1 "Finish NPTEL" 2023-04-28`
+```
+./t add 1 "Finish NPTEL" 2023-04-28
+```
 
 To update an existing task:
 
-`./t update 1 "Finish Coursera" 2023-04-29`
+```
+./t update 1 "Finish Coursera" 2023-04-29
+```
 
 To delete a task from your list:
 
-`./t delete 1`
+```
+./t delete 1
+```
 
 To display all the tasks in your list:
 
-`./t disp`
+```
+./t disp
+```
 
 ## Notes
 The id argument for add and update must be a positive integer, and it should be unique among all the tasks in your list.
