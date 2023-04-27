@@ -50,6 +50,10 @@ To display all the tasks in your list:
 ./t disp
 ```
 
+To display the man page:
+
+`./t --help` or `./t -h`
+
 ## Notes
 The id argument for add and update must be a positive integer, and it should be unique among all the tasks in your list.
 The date argument for add and update should be in the format YYYY-MM-DD.
